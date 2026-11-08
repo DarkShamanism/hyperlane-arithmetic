@@ -1,0 +1,101 @@
+{
+  "source_snapshot": "NMS-MAP-STANDALONE/reference/web-build-2026-11-04/nms",
+  "files": [
+    {
+      "path": "source/black-hole-exit.js",
+      "source": "nms/voyage/voyage.js",
+      "line_ranges": [
+        [
+          1172,
+          1195
+        ]
+      ],
+      "bytes": 2419,
+      "sha256": "aa9314e76db395d0b89478a4c4004ee401bcad42dd4658ecdb9a411dddd9229a"
+    },
+    {
+      "path": "source/route-planner.js",
+      "source": "nms/voyage/voyage.js",
+      "line_ranges": [
+        [
+          1566,
+          1693
+        ],
+        [
+          1763,
+          1933
+        ]
+      ],
+      "bytes": 23180,
+      "sha256": "945364b5b88a815951362267bbb48bc0cf90899e7b2eacb0d9f8aead3b861438"
+    },
+    {
+      "path": "source/find-search.js",
+      "source": "nms/voyage/voyage.js",
+      "line_ranges": [
+        [
+          2336,
+          2392
+        ],
+        [
+          2456,
+          2468
+        ]
+      ],
+      "bytes": 4313,
+      "sha256": "6453216ef5d768e7a6b2306284a69134af4ae8659482537bb92f0fb33d81c646"
+    },
+    {
+      "path": "source/name-search.js",
+      "source": "nms/voyage/voyage.js",
+      "line_ranges": [
+        [
+          2668,
+          2765
+        ],
+        [
+          3561,
+          3644
+        ]
+      ],
+      "bytes": 11253,
+      "sha256": "6a0991571fe437d48f773ca7ca81f816a26712aee476b1082635e5fc45419507"
+    },
+    {
+      "path": "source/name-compiler-and-gpu.js",
+      "source": "nms/voyage/voyage.js",
+      "line_ranges": [
+        [
+          2767,
+          3123
+        ]
+      ],
+      "bytes": 24098,
+      "sha256": "3c89a34a3f92ab4ec4f111a3311ca37ed54e1086c3a29eb5ab80c100e0883696"
+    },
+    {
+      "path": "source/gpu-route.js",
+      "source": "nms/voyage/voyage.js",
+      "line_ranges": [
+        [
+          3125,
+          3549
+        ]
+      ],
+      "bytes": 28726,
+      "sha256": "99b9fd42c16c0eaab41c64b3a2a38e3d0d08d6070fd02ba1d045e49f7db77447"
+    },
+    {
+      "path": "source/pre-release-name-parser.js",
+      "source": "nms/voyage/voyage.js",
+      "line_ranges": [
+        [
+          3701,
+          3712
+        ]
+      ],
+      "bytes": 1296,
+      "sha256": "e617870085757c2c21e554568f0096c30d67202651e329cc3467b3396d254a1c"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Release notes — frozen web app algorithms
 
-Seven source excerpts from the 2026-11-04 frozen web build, with a manifest of exact line ranges and SHA-256 hashes.
+Seven source excerpts from the frozen web build (https://crowbarsworkshop.com/nms/), with a manifest of exact line ranges and SHA-256 hashes.
 
 Included: black-hole exit inference; warp/black-hole route planning; nearby system finding; reverse name and planet-name search; integer draw-range compiler; WebGPU name and route search; pre-release name parsing.
 

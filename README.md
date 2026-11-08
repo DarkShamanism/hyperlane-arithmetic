@@ -12,7 +12,7 @@ This package contains **only algorithm and arithmetic excerpts from our web app*
 | `source/gpu-route.js` | WebGPU black-hole route search |
 | `source/pre-release-name-parser.js` | Pre-release name normalization |
 
-These are **reference fragments**, not a runnable app. They use base map generator and browser helpers that are deliberately absent. The original site's address packing, generator, name tables, HTML, CSS, image/font assets and third-party libraries are not included. No save, voyage, player or catalogue data is included.
+These are **reference fragments**, not a runnable app. They use base map generator and browser helpers that are deliberately absent from this specific repo. The original site's address packing, generator, name tables, HTML, CSS, image/font assets and third-party libraries are not included. No save, voyage, player or catalogue data is included.
 
 The black-hole exit formula and near-core estimates are inferred from recorded jumps and have stated uncertainty in the source comments. Do not treat them as guaranteed game behavior, but they are pretty dang accurate.
 

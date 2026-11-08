@@ -1,6 +1,6 @@
 # Expanded web map algorithms
 
-This package contains **only algorithm and arithmetic excerpts from our web app**, `NMS-MAP-STANDALONE/reference/web-build-2026-11-04/nms/voyage/voyage.js`. Each source preserves its exact written lines; `MANIFEST.json` records the original line ranges and SHA-256 hashes.
+This package contains **only algorithm and arithmetic excerpts from our web app**, `www.crowbarsworkshop.com/nms`. Each source preserves its exact written lines; `MANIFEST.json` records the original line ranges and SHA-256 hashes.
 
 | File | Contents |
 |---|---|

@@ -1,6 +1,6 @@
 # Algorithms and arithmetic
 
-The source files preserve exact excerpts from the frozen web app. This note summarizes their main inputs, outputs and limits. The map's base address/generator API is an external dependency and is deliberately not copied.
+The source files preserve exact excerpts from the web application (https://crowbarsworkshop.com/nms/). This note summarizes their main inputs, outputs and limits. The map's base address/generator API is an external dependency and is deliberately not supplied here, sorry.
 
 ## Black-hole exit inference
 
